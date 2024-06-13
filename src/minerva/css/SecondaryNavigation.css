@@ -1,0 +1,88 @@
+/* =================================================================
+/* SECTION Secondary Navigation
+================================================================= */
+.ua_minerva ul.ua_secondary-navigation_list li,
+.ua_minerva ul.ua_secondary-navigation_list li ul {
+  margin: 0;
+  list-style: none;
+  width: 100%;
+  padding: 0;
+}
+
+.ua_minerva ul.ua_secondary-navigation_list li {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ua_minerva .ua_secondary-navigation_list li span {
+  display: flex;
+  width: 100%;
+}
+
+.ua_minerva .ua_secondary-navigation_list a {
+  box-sizing: border-box;
+  display: block;
+  flex-grow: 1;
+  padding: var(--ua_space--1, 0.5rem) var(--ua_space--2, 1rem);
+  background: var(--ua_color-background--element, #f2f3f4);
+  border-left: 5px solid var(--ua_color-background--chip, #dfe2e5);
+  font-weight: normal;
+  text-decoration: none;
+  color: inherit;
+}
+
+.ua_minerva .ua_secondary-navigation_list a:hover,
+.ua_minerva .ua_secondary-navigation_list a:focus {
+  background-color: var(--ua_color-background--chip, #dfe2e5);
+  border-color: var(--ua_color-text--link, #9e1b32);
+  color: var(--ua_color-text--link, #9e1b32);
+  text-decoration: underline;
+}
+
+.ua_minerva .ua_secondary-navigation_list li[aria-haspopup] ul a {
+  padding-left: var(--ua_space--4, 2rem);
+}
+
+.ua_minerva .ua_secondary-navigation_list li[aria-haspopup] ul ul a {
+  padding-left: var(--ua_space--8, 4rem);
+}
+
+.ua_minerva .ua_secondary-navigation_list button {
+  color: inherit;
+  background: var(--ua_color-background--element, #f2f3f4);
+  border: none;
+}
+
+.ua_minerva .ua_secondary-navigation_list button * {
+  pointer-events: none;
+}
+
+.ua_minerva .ua_secondary-navigation_list button:hover,
+.ua_minerva .ua_secondary-navigation_list button:focus {
+  color: inherit;
+  background: var(--ua_color-background--chip, #dfe2e5);
+  text-decoration: none;
+}
+
+@media (scripting: enabled) {
+  .ua_minerva .ua_secondary-navigation_list li[aria-haspopup] ul {
+    display: none;
+  }
+}
+.ua_minerva .ua_secondary-navigation_list li ul[aria-hidden=true] {
+  display: none;
+}
+
+.ua_minerva .ua_secondary-navigation_list li ul[aria-hidden=false] {
+  display: block;
+}
+
+.ua_minerva .ua_secondary-navigation_list li[aria-expanded=true] > span button .ua_secondary-navigation_inactive_content {
+  display: none;
+}
+
+.ua_minerva .ua_secondary-navigation_list li[aria-expanded=false] > span button .ua_secondary-navigation_active_content {
+  display: none;
+}
+
+/* !SECTION Secondary Navigation */

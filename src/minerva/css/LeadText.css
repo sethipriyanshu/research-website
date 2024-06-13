@@ -1,0 +1,10 @@
+/* ==================================================================
+ * SECTION Lead Text
+================================================================== */
+.ua_minerva .ua_lead-in {
+  font-size: var(--ua_font-size--medium, 1.5rem);
+  line-height: var(--ua_line-height--medium, 2rem);
+  font-family: var(--ua_font--accent, proxima-nova-condensed, sans-serif);
+}
+
+/* !SECTION Lead Text */

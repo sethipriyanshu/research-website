@@ -1,0 +1,30 @@
+/* =================================================================
+/* SECTION TagList
+================================================================= */
+.ua_minerva .ua_tag-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--ua_space--flow-half, 1rem);
+}
+
+.ua_minerva .ua_tag-list a,
+.ua_minerva .ua_tag-list span {
+  display: block;
+  background: var(--ua_color-background--chip, #dfe2e5);
+  padding: var(--ua_space--05, 0.25rem) var(--ua_space--2, 1rem);
+}
+
+.ua_minerva .ua_tag-list a,
+.ua_minerva .ua_tag-list span {
+  text-decoration: none;
+  font-weight: normal;
+  color: var(--ua_color-text--default, #35363b);
+}
+
+.ua_minerva .ua_tag-list a:hover {
+  text-decoration: underline;
+  color: var(--ua_color-text--default, #35363b);
+}
+
+/* !SECTION TagList */

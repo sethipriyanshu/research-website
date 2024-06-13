@@ -1,0 +1,69 @@
+/* =================================================================
+/* SECTION Link Box List
+================================================================= */
+.ua_minerva .ua_link-box {
+  position: relative;
+  padding: var(--ua_space--block-padding, 2rem);
+  border: var(--ua_border--standard, 1px solid var(--ua_color-background--chip, #dfe2e5));
+}
+
+.ua_minerva .ua_link-box > .fa {
+  padding-inline-end: var(--ua_space--flow-half, 1rem);
+}
+
+.ua_minerva .ua_presence--prominent > .ua_link-box .fa-duotone {
+  --fa-secondary-opacity: 1;
+  --fa-primary-color: var(--ua_color-icon--primary, #9e1b32);
+  --fa-secondary-color: var(--ua_color-icon--secondary, #E5425E);
+  display: block;
+  line-height: 1;
+  font-size: 5rem;
+  margin-bottom: var(--ua_space--flow, 2rem);
+}
+
+.ua_minerva .ua_link-box a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.ua_minerva .ua_link-box .ua_link-box_title {
+  font-size: var(--ua_font-size--medium, 1.5rem);
+  line-height: var(--ua_line-height--medium, 2rem);
+  font-weight: var(--ua_weight--semibold, 600);
+  color: inherit;
+}
+
+.ua_minerva .ua_link-box p {
+  font-size: var(--ua_font-size--normal, 1.25rem);
+  line-height: var(--ua_line-height--small, 1.5rem);
+  margin-block-start: var(--ua_space--flow-half, 1rem);
+}
+
+.ua_minerva .ua_presence--prominent > .ua_link-box {
+  border-color: transparent;
+  background-color: var(--ua_color-background--element, #f2f3f4);
+  text-align: center;
+}
+
+.ua_minerva .ua_presence--prominent > .ua_link-box .ua_link-box_title {
+  display: block;
+}
+
+.ua_minerva .ua_link-box:hover,
+.ua_minerva .ua_link-box:focus-within {
+  border-color: var(--ua_color-text--link, #9e1b32);
+  box-shadow: inset 0 0 0 1px var(--ua_color-text--link, #9e1b32);
+}
+
+.ua_minerva .ua_link-box:hover .ua_link-box_title,
+.ua_minerva .ua_link-box:focus-within .ua_link-box_title {
+  color: var(--ua_color-text--link, #9e1b32);
+}
+
+.ua_minerva .ua_link-box:hover > .fa,
+.ua_minerva .ua_link-box:focus-within > .fa {
+  color: var(--ua_color-text--link, #9e1b32);
+}
+
+/* !SECTION Link Box */

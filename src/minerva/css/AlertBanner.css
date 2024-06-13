@@ -1,0 +1,23 @@
+/* =================================================================
+/* SECTION Alert Banner
+================================================================= */
+.ua_minerva .ua_alert-banner {
+  font-size: var(--ua_font-size--small, 1rem);
+  line-height: var(--ua_line-height--small, 1.5rem);
+  padding: var(--ua_space--flow-half, 1rem);
+  background-color: var(--ua_color-background--negative, #FAF4E6);
+  text-align: center;
+}
+
+.ua_minerva .ua_alert-banner a {
+  color: inherit;
+  font-weight: var(--ua_weight--bold, 700);
+  margin-inline-start: var(--ua_space--05, 0.25rem);
+}
+
+.ua_minerva .ua_alert-banner a:hover,
+.ua_minerva .ua_alert-banner a:focus {
+  text-decoration: none;
+}
+
+/* !SECTION Callout Box */

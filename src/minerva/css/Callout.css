@@ -1,0 +1,39 @@
+/* =================================================================
+/* SECTION Callout Box
+================================================================= */
+.ua_minerva .ua_callout {
+  font-size: var(--ua_font-size--small, 1rem);
+  line-height: var(--ua_line-height--small, 1.5rem);
+  --ua_space--flow: var(--ua_space--flow-half);
+  padding: var(--ua_space--block-padding, 2rem);
+  border-inline-start: 5px solid var(--ua_color-accent--neutral, #757c88);
+  background-color: var(--ua_color-background--element, #f2f3f4);
+}
+
+.ua_minerva .ua_callout .ua_callout_title {
+  font-size: var(--ua_font-size--normal, 1.25rem);
+  line-height: var(--ua_line-height--normal, 2rem);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: var(--ua_weight--bold, 700);
+}
+
+.ua_minerva .ua_callout.ua_context--info {
+  border-color: var(--ua_color-accent--info, #0070DD);
+  background-color: var(--ua_color-background--info, #E8F2FC);
+  color: var(--ua_color-text--info, #012A4C);
+}
+
+.ua_minerva .ua_callout.ua_context--positive {
+  border-color: var(--ua_color-accent--positive, #39A845);
+  background-color: var(--ua_color-background--positive, #f0f5ef);
+  color: var(--ua_color-text--positive, #194B1F);
+}
+
+.ua_minerva .ua_callout.ua_context--negative {
+  border-color: var(--ua_color-accent--negative, #DC8E0E);
+  background-color: var(--ua_color-background--negative, #FAF4E6);
+  color: var(--ua_color-text--negative, #723900);
+}
+
+/* !SECTION Callout Box */

@@ -1,0 +1,62 @@
+/* =================================================================
+/* SECTION Event
+================================================================= */
+.ua_minerva .ua_event {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  padding: var(--ua_space--flow, 2rem);
+  background-color: var(--ua_color-background--element, #f2f3f4);
+  align-content: start;
+}
+
+.ua_minerva .ua_event > * {
+  width: 100%;
+}
+
+.ua_minerva .ua_event_name {
+  font-size: var(--ua_font-size--medium, 1.5rem);
+  line-height: var(--ua_line-height--medium, 2rem);
+  letter-spacing: normal;
+  margin: var(--ua_space--flow-half, 1rem) 0;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+.ua_minerva .ua_event_name a {
+  text-decoration: none;
+  color: var(--ua_color-text--default, #35363b);
+}
+
+.ua_minerva .ua_event_name a[href]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.ua_minerva .ua_event_name a:hover {
+  text-decoration: underline;
+}
+
+.ua_minerva .ua_event_date,
+.ua_minerva .ua_event_time,
+.ua_minerva .ua_event_location {
+  font-size: var(--ua_font-size--small, 1rem);
+  line-height: var(--ua_line-height--small, 1.5rem);
+}
+
+.ua_minerva .ua_event_date {
+  font-weight: var(--ua_weight--bold, 700);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  order: -1;
+  padding-bottom: var(--ua_space--flow-half, 1rem);
+  color: var(--ua_color-text--accent, #9e1b32);
+  border-bottom: 1px solid var(--ua_color-background--chip, #dfe2e5);
+}
+
+/* !SECTION Event */

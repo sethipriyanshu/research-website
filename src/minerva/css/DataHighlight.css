@@ -1,0 +1,53 @@
+/* =================================================================
+/* SECTION Stat Box List
+================================================================= */
+.ua_minerva .ua_data-highlight {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.ua_minerva .ua_data-highlight-list .ua_data-highlight {
+  display: grid;
+  height: 100%;
+  align-content: center;
+  text-align: center;
+}
+
+.ua_minerva .ua_data-highlight.ua_align--center {
+  align-items: center;
+}
+
+.ua_minerva .ua_data-highlight.ua_align--right {
+  align-items: end;
+}
+
+.ua_minerva .ua_data-highlight.ua_align--left {
+  align-items: start;
+}
+
+.ua_minerva .ua_data-highlight_lead {
+  font-size: var(--ua_font-size--normal, 1.25rem);
+  line-height: var(--ua_line-height--normal, 2rem);
+  font-family: var(--ua_font--accent, proxima-nova-condensed, sans-serif);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.ua_minerva .ua_data-highlight_stat {
+  font-size: var(--ua_font-size--xlarge, 2rem);
+  line-height: var(--ua_line-height--xlarge, 2.5rem);
+  letter-spacing: -0.025em;
+  font-weight: var(--ua_weight--black, 900);
+  display: block;
+  color: var(--ua_color-text--accent, #9e1b32);
+}
+
+.ua_minerva .ua_data-highlight_description {
+  font-size: var(--ua_font-size--normal, 1.25rem);
+  line-height: var(--ua_line-height--small, 1.5rem);
+  display: block;
+  margin-block-start: var(--ua_space--flow-half, 1rem);
+}
+
+/* !SECTION Stat Box List */

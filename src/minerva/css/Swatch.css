@@ -1,0 +1,26 @@
+/* =================================================================
+/* SECTION Swatch
+================================================================= */
+.ua_minerva .swatch {
+  font-size: var(--ua_font-size--medium, 1.5rem);
+  line-height: var(--ua_line-height--medium, 2rem);
+  border: 1px solid var(--ua_color-background--chip, #dfe2e5);
+  padding: var(--ua_space--flow-half, 1rem);
+}
+
+.ua_minerva .swatch h3 {
+  margin-bottom: var(--ua_space--flow-half, 1rem);
+  padding: var(--ua_space--section, 4rem) var(--ua_space--flow-half, 1rem) var(--ua_space--flow-half, 1rem);
+  text-transform: uppercase;
+}
+
+.ua_minerva .swatch > div {
+  margin-bottom: var(--ua_space--flow-half, 1rem);
+}
+
+.ua_minerva .swatch span:first-child {
+  font-size: var(--ua_font-size--xsmall, 0.75rem);
+  line-height: var(--ua_line-height--xsmall, 1rem);
+  display: block;
+  margin-bottom: var(--ua_space--flow-half, 1rem);
+}

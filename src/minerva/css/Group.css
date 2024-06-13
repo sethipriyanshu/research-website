@@ -1,0 +1,60 @@
+/* =================================================================
+/* SECTION Group
+================================================================= */
+.ua_minerva .ua_group.ua_context--elevated {
+  padding-inline: var(--ua_space--gutter, 1rem);
+  background-color: var(--ua_color-background--surface, white);
+}
+
+.ua_minerva .ua_group.ua_context--prominent {
+  padding-inline: var(--ua_space--gutter, 1rem);
+  background-color: var(--ua_color-background--surface, white);
+}
+
+.ua_minerva .ua_group[data-overlay] {
+  padding-inline: var(--ua_space--gutter, 1rem);
+  position: relative;
+}
+
+.ua_minerva .ua_group[data-overlay].ua_layout--standard,
+.ua_minerva .ua_group[data-overlay].ua_layout--wide,
+.ua_minerva .ua_group[data-overlay].ua_layout--full,
+.ua_minerva .ua_group.ua_context--prominent.ua_layout--standard,
+.ua_minerva .ua_group.ua_context--prominent.ua_layout--wide,
+.ua_minerva .ua_group.ua_context--prominent.ua_layout--full,
+.ua_minerva .ua_group.ua_context--elevated.ua_layout--standard,
+.ua_minerva .ua_group.ua_context--elevated.ua_layout--wide,
+.ua_minerva .ua_group.ua_context--elevated.ua_layout--full {
+  padding-inline: 0;
+}
+
+.ua_minerva .ua_group .ua_group_background-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  max-width: 100% !important;
+  height: 100%;
+  z-index: -10;
+  margin: 0;
+  padding: 0;
+  object-fit: cover;
+}
+
+.ua_minerva .ua_group[data-overlay]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -5;
+}
+
+.ua_minerva .ua_group[data-overlay=dark]::before {
+  background: var(--ua_color-text--default, #35363b);
+  opacity: 0.8;
+}
+
+.ua_minerva .ua_group[data-overlay=light]::before {
+  background: var(--ua_color-text--inverse, white);
+  opacity: 0.8;
+}
+
+/* !SECTION Group */

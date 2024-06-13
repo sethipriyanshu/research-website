@@ -1,0 +1,27 @@
+/* =================================================================
+/* SECTION SocialLinks
+================================================================= */
+.ua_minerva .ua_social-links {
+  gap: var(--ua_space--flow-half, 1rem);
+  list-style: none;
+  display: flex;
+}
+
+.ua_minerva .ua_social-links li a {
+  display: block;
+  font-weight: normal;
+  text-decoration: none;
+  padding: var(--ua_space--1, 0.5rem);
+  background-color: var(--ua_color-text--link, #9e1b32);
+  color: var(--ua_color-text--inverse, white);
+  align-items: center;
+  line-height: 0;
+}
+
+.ua_minerva .ua_social-links li a:hover {
+  background-color: var(--ua_color-text--link-hover, #821E2E);
+  color: var(--ua_color-text--inverse, white);
+  transform: scale(1.1);
+}
+
+/* !SECTION SocialLinks */

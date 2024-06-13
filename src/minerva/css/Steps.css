@@ -1,0 +1,68 @@
+/* =================================================================
+/* SECTION Steps
+================================================================= */
+.ua_minerva .ua_steps {
+  counter-reset: item;
+  color: var(--ua_color-text--default, #35363b);
+  box-sizing: border-box;
+}
+
+.ua_minerva .ua_steps h1:first-child,
+.ua_minerva .ua_steps h2:first-child,
+.ua_minerva .ua_steps h3:first-child,
+.ua_minerva .ua_steps h4:first-child,
+.ua_minerva .ua_steps h5:first-child,
+.ua_minerva .ua_steps h6:first-child {
+  font-size: var(--ua_font-size--normal, 1.25rem);
+  line-height: var(--ua_line-height--normal, 2rem);
+  font-weight: var(--ua_weight--semibold, 600);
+  margin-block: var(--ua_space--flow-half, 1rem);
+}
+
+.ua_minerva .ua_steps p {
+  font-size: var(--ua_font-size--small, 1rem);
+  line-height: var(--ua_line-height--small, 1.5rem);
+  text-align: left;
+  margin: 0;
+}
+
+.ua_minerva .ua_steps a[href] {
+  border-color: var(--ua_color-text--link, #9e1b32);
+  font-weight: normal;
+}
+
+.ua_minerva .ua_steps > li {
+  counter-increment: item;
+  list-style: none;
+  background-color: var(--ua_color-background--surface, white);
+  padding: var(--ua_space--flow, 2rem);
+  margin: 0;
+  border: 1px solid var(--ua_color-accent--neutral, #757c88);
+}
+
+.ua_minerva .ua_steps > li::before {
+  font-size: var(--ua_font-size--xxlarge, 2.25rem);
+  line-height: var(--ua_line-height--xxlarge, 2.5rem);
+  letter-spacing: -0.03em;
+  font-weight: var(--ua_weight--black, 900);
+  box-sizing: border-box;
+  content: counter(item, decimal-leading-zero);
+  display: inline-block;
+  color: var(--ua_color-text--accent, #9e1b32);
+}
+
+.ua_minerva .ua_presence--subtle > .ua_steps li {
+  border: 0;
+  padding: 0;
+}
+
+.ua_minerva .ua_presence--elevated > .ua_steps li {
+  border: 0;
+  background-color: var(--ua_color-background--element, #f2f3f4);
+}
+
+.ua_minerva .ua_steps > li > * + * {
+  margin-block-start: var(--ua_space--flow-half, 1rem);
+}
+
+/* !SECTION steps */

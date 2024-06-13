@@ -1,0 +1,55 @@
+/* =================================================================
+/* SECTION Accordion Box
+================================================================= */
+.ua_minerva .ua_accordion {
+  font-size: var(--ua_font-size--normal, 1.25rem);
+  line-height: var(--ua_line-height--small, 1.5rem);
+}
+
+.ua_minerva .ua_accordion summary {
+  display: block;
+  cursor: pointer;
+  padding: var(--ua_space--1, 0.5rem);
+  padding-inline-start: var(--ua_space--flow, 2rem);
+  background: var(--ua_color-background--element, #f2f3f4);
+  color: var(--ua_color-text--default, #35363b);
+  font-weight: var(--ua_weight--semibold, 600);
+  line-height: var(--ua_space--flow, 2rem);
+}
+
+.ua_minerva .ua_accordion summary::before {
+  content: "+";
+  box-sizing: border-box;
+  position: absolute;
+  inset-inline-start: 0;
+  padding-left: var(--ua_space--inline-block-padding, 0.25em 0.75em);
+  font-family: var(--ua_font--icon, "Font Awesome 6 Pro");
+  text-align: center;
+  width: var(--ua_space--flow, 2rem);
+  display: inline-block;
+  font-size: 0.75em;
+  color: var(--ua_color-text--link, #9e1b32);
+}
+
+.ua_minerva details[open].ua_accordion > summary::before {
+  content: "\f00d";
+}
+
+.ua_minerva details.ua_accordion .details-content {
+  padding: var(--ua_space--flow, 2rem);
+  background: var(--ua_color-background--element, #f2f3f4);
+}
+
+.ua_minerva details.ua_accordion .details-content > * + * {
+  margin-block-start: var(--ua_space--flow-half, 1rem);
+}
+
+.ua_minerva details[open].ua_accordion > summary {
+  background: var(--ua_color-background--element, #f2f3f4);
+}
+
+.ua_minerva .ua_layout--flow > .ua_component_wrapper:has(.ua_accordion) + .ua_component_wrapper:has(.ua_accordion) {
+  margin-block-start: calc(var(--ua_space--flow, 2rem) / 2);
+}
+
+/* !SECTION Accordion Box */
