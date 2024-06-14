@@ -399,3 +399,53 @@ flex: 1;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.2); /* Semi-transparent black background */
 }
+
+
+.home-content {
+  padding-top: 40px;
+  padding-left: 80px; /* Adjust padding for mobile view */
+  padding-right: 80px; /* Adjust padding for mobile view */
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center content horizontally */
+}
+
+.home-text {
+  margin-bottom: 20px;
+  text-align: left; /* Center text for better mobile view */
+}
+
+.home-images {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px; /* Larger gap for desktop view */
+  width: 100%; /* Use full width of the container */
+  max-width: 600px; /* Set a max width to prevent too wide layout */
+}
+
+.home-images img {
+  padding-top: 40px;
+  width: 100%; /* Make images responsive */
+  max-width: calc(50% - 50px); /* Adjust width for two images with a gap */
+  object-fit: cover;
+}
+
+/* Media query for mobile view */
+@media (max-width: 600px) {
+  .home-images {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px; /* Smaller gap for mobile view */
+  }
+  .home-content{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .home-images img {
+    max-width: calc(50% - 5px);/* Adjust to fit within mobile screen width */
+    margin-bottom: 0px; /* Add margin for spacing between images */
+  }
+}
