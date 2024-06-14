@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --ua_space--05: 0.25rem;
   --ua_space--1: 0.5rem;
