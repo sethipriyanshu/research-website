@@ -9,6 +9,7 @@ import { Members } from './pages/members';
 import { Album } from './pages/album';
 import { Contact } from './pages/contact';
 import { Navbar } from './components/navbar';
+import { Footer } from './components/footer';
 
 
 
@@ -26,6 +27,7 @@ function App() {
       <Route path='/album' element = {<Album/>}/>
       <Route path='/contact' element = {<Contact/>}/>
     </Routes>
+    <Footer/>
      </Router>
     </div>
   );
