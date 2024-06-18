@@ -446,8 +446,8 @@ flex: 1;
   }
 
   .home-images img {
-    max-width: calc(50% - 5px);/* Adjust to fit within mobile screen width */
-    margin-bottom: 0px; /* Add margin for spacing between images */
+    max-width: calc(50% - 5px);
+    margin-bottom: 0px; 
   }
 }
 

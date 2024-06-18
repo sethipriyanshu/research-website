@@ -24,7 +24,7 @@ export const Footer = () =>{
             <a
               href="https://login.ua.edu/cas/login?service=https%3a%2f%2fw.taskstream.com%2fCas%2fLogin%3fpartnerId%3dksh0hphohk"
             >
-              Taskstream
+              UA
             </a>
           </li>
           <li><a href="http://eop.ua.edu/">Equal Opportunity</a></li>
