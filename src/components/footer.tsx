@@ -13,7 +13,7 @@ export const Footer = () =>{
             <a href="https://www.ua.edu">The University of Alabama</a>
           </span>
           <span><a href="tel:+12053486010">(205) 348-6010</a></span>
-          <span><a href="https://www.ua.edu/contact">Contact UA</a></span>
+          <span><a href="https://www.ua.edu/contact">Contact us</a></span>
         </p>
       </div>
       <nav aria-label="Legal Links">
