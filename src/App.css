@@ -523,3 +523,76 @@ flex: 1;
     max-width: 5.5em;
   }
 }
+
+.contact_section {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin: 20px 0;
+}
+
+.contact_section img {
+  flex: 1 1 20%;
+  max-width: 15%;
+  height: auto;
+  object-fit: cover;
+  margin-right: 20px;
+  margin-left: 150px;
+}
+
+.contact_section .text-info {
+  flex: 1 1 30%;
+  margin-right: 20px;
+  color: black;
+  margin-left: 20px;
+}
+.contact_section .text-info h1 {
+  font-size: 2em; /* Adjust this value to make the h1 bigger */
+  color: #9E1B32;
+}
+.contact_section .text-info a {
+  color: blue;
+}
+
+.contact_section .map {
+  flex: 1 1 30%;
+  position: relative;
+  padding-bottom: 30%; /* Maintain a 1:1 aspect ratio */
+  height: 0;
+  margin-right: 50px;
+}
+
+.contact_section .map iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 80%;
+}
+@media (max-width: 768px) {
+  .contact_section {
+    flex-direction: column;
+    align-items: center; /* Center align all items in the column */
+  }
+
+  .contact_section img {
+    flex: 1 1 50%; /* Increase image size for mobile */
+    max-width: 50%;
+    margin-right: 60;
+    margin-bottom: 20px;
+    margin-left: 25px;
+  }
+
+  .contact_section .text-info {
+    flex: 1 1 80%; /* Adjust text width for mobile */
+    text-align: center; /* Center-align the text */
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .contact_section .map {
+    flex: 1 1 80%; /* Adjust map width for mobile */
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
