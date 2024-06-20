@@ -10,6 +10,7 @@ import { Album } from './pages/album';
 import { Contact } from './pages/contact';
 import { Navbar } from './components/navbar';
 import { Footer } from './components/footer';
+import { Grants } from './pages/grants';
 
 
 
@@ -26,6 +27,7 @@ function App() {
       <Route path='/lab-members' element = {<Members/>}/>
       <Route path='/album' element = {<Album/>}/>
       <Route path='/contact' element = {<Contact/>}/>
+      <Route path='/grants' element = {<Grants/>}/>
     </Routes>
     <Footer/>
      </Router>

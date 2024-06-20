@@ -32,6 +32,7 @@ export const Navbar = () =>{
       <li><Link to="/lab-members">Lab Members</Link></li>
       <li><Link to="/album">Lab Album</Link></li>
       <li><Link to="/contact">Contact</Link></li>
+      
     </ul>
   </nav>
 
