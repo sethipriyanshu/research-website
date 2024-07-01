@@ -184,7 +184,42 @@ export const Publications = () =>{
   <h1>2020</h1>
 </div>
 <div className="publications">
+<p>McLendon, L., Puckett, J., Green, C., James, J., Head, K.J., <b>Lee, H.Y.</b>, Pierce, J.Y., Beasley, M., & Daniel, C.L. (2020). Factors associated with HPV vaccination initiation among United States college students. Human Vaccines and Immunotherapeutic, 17(7), 1–11. Advance online publication.</p>
 
+<p>Han, A., Yuen, H. K., <b>Lee, H. Y.</b>, & Zhou, X. (2020). Effects of acceptance and commitment therapy on process measures of family caregivers: A systematic review and meta-analysis. Journal of Contextual Behavioral Science, 18, 201-213.</p>
+
+<p>Kim, S. Y., Guo, Y.,D Won, C. R.,D & <b>Lee, H. Y.S</b> (2020). Factors associated with receipt of mammogram among caregivers: a comparison with non-caregivers. BMC Women's Health, 20(1), 216.</p>
+
+<p>Roh, S., McKinley, C. E., Liddell, J. L., Lee, Y-S., & <b>Lee, H. Y.</b> (2020). American Indian Women Cancer Survivors’ Experiences of Community Support in a Context of Historical. Journal of Community Practice.</p>
+
+<p>Choi, E. Y.,D Kim, Y.S., Chipalo, E.,D & <b>Lee, H. Y.S</b> (2020). Does perceived ageism widen the digital divide? And Does It Vary by Gender? The Gerontologist, 60(7), 1213-1223.</p>
+
+<p>Guo, Y.,D Yang, F., Hu, F., Li, W., Ruggiano, N., & <b>Lee, H. Y.S</b> (2020). Existing mobile phone apps for self-care management of people with Alzheimer disease and related dementias: Systematic analysis. JMIR aging, 3(1), e15290.</p>
+
+<p>Kim, J.H., <b>Lee, H. Y.</b>, Won, C.R.,D Barr, T., & Merighi, J. R. (2020). Older adults’ technology use and its association with health and depressive symptoms: Findings from the 2011 National Health and Aging Trends Study. Nursing Outlook, 68(5), 560-572.</p>
+
+<p><b>Lee, H.Y.</b>, Eyer, J., Lee, D.,U Won, C.R.,D Hudnell, M., & Cain, D.S. (2020). The Opioid Crisis in Alabama: Actionable Recommendations for Prevention, Treatment, and Recovery in Rural Communities. Best Practice in Mental Health, 16(1), 1-11.</p>
+
+<p>Ko, K.S., <b>Lee, H.Y.</b>, & Won, C.R.D (2020). Latent Growth Model of Predictors of Health Status in Korean Older Adults. American Journal of Health Behavior, 44(3):364-374.</p>
+
+<p>An, S.O.,D <b>Lee, H.Y.</b>, Choi, Y.J. & Yoon, Y.J.,D (2020). Literacy of Breast Cancer and Screening Guideline in an Immigrant Group: Importance of Health Accessibility. Journal of Immigrant and Minority Health, 22(3), 563-570.</p>
+
+<p><b>Lee, H.Y.</b>, Choi, E. Y.,D Kim, Y., Neese, J.,M & Luo. Y.D (2020). Rural and non-rural digital divide persists in older adults: Internet access, usage, and perception. Innovation in Aging, 4 (Suppl, 1), 412–413.</p>
+
+<p><b>Lee, H.Y.</b>, Hwang, J., Ball, J., Lee, J., Yu, Y., & Albright, D. (2020). Mental Health Literacy Affects Mental Health Attitude: Is There a Gender Difference? American Journal of Health Behavior, 44(3), 283-291.</p>
+
+<p><b>Lee, H.Y.</b>, Ham, Y. H., & Lee, J.W, (2020). HPV Literacy as a crucial determinant for completion of HPV vaccine series in young adult women. Social Welfare Policy and Practice, 6(1), 149-178.</p>
+
+<p><b>Lee, H.Y.</b>, Zhou, A.,D Lee, R.M., & Dillon, A.L. (2020). Parents’ Functional Health Literacy is Associated with Children’s Health Outcomes: Implications for Health Practice, Policy, and Research, Children and Youth Services Review, 110.</p>
+
+<p>Rogers, E.A., Chanthanouvong, S., Saengsudham, C., Tran, V., Anderson, L., Zhang., L., & <b>Lee, H.Y.</b> (2020). Factors Associated with Reported Colorectal Cancer Screening Among Lao-American Immigrants in Minnesota. Journal of Immigrant and Minority Health, 22, 375-382.</p>
+
+<p>Choi, Y.J., <b>Lee, H.Y.</b>, An, S.O.,D Yoon, Y.J.,D & Oh, J.M (2020). Predictors of Cervical Cancer Screening Awareness and Literacy among Korean-American Women. Journal of Racial and Ethnic Health Disparities, 7(1), 1-9.</p>
+
+<p><b>Lee, H.Y.</b>, Hwang, J., Ball, J.G., Lee, J., & Albright, D.L. (2020). Is health literacy associated with mental health literacy? Findings from Mental Health Literacy Scale. Perspectives in Psychiatric Care, 56(2), 393-400.</p>
+
+<p>McDaniel, J. T., Lee, M., Albright, D. L., <b>Lee, H. Y.</b>, & Maddock, J. (2020). Small area estimation of mental distress among United States military veterans in Illinois. Community mental health journal, 56(2), 298–302.</p>
+<br/>
   </div> 
 
   <div className="publications_title">
