@@ -710,6 +710,19 @@ flex: 1;
   margin-right: 40px;
   margin-top: 20px;
 }
+.publications_title{
+background-color: #f0f2f5;
+color: #9E1B32;
+font-size: 25px;
+padding-left: 100px;
+padding-top: 10px;
+}
+.publications p{
+  padding-left: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+}
 
 
 
