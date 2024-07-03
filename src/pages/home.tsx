@@ -16,6 +16,7 @@ export const Home = () =>{
           <div>
               <h1 style={{fontSize:'40px'}}>Hee Lab</h1>
               <p style={{fontSize:'20px'}}>The School of Social Work</p>
+              
           </div>
       </div>
 

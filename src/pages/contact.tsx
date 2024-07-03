@@ -1,6 +1,19 @@
 import contact_img from '../images/contact.jpg'; 
 
 export const Contact = () =>{
+
+    const downloadPdf = () => {
+        const url = process.env.PUBLIC_URL + '/cv_hee_yun_lee.pdf'; 
+        const link = document.createElement('a');
+        link.href = url;
+        link.setAttribute('download', 'cv_hee_yun_lee.pdf'); 
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+      };
+      
+
+
     return(
         <div>
             <div className="ua_component_wrapper ua_custom-class">
@@ -28,14 +41,19 @@ export const Contact = () =>{
                     <p>Professor & Endowed Academic Chair</p>
                     <br/>
                     <b><p>Office:</p></b>
-                    <p>City, State, ZIP</p>
+                    <p>1022 Little Hall, Box 870314, Tuscaloosa, Alabama</p>
                     <br/>
                     <b><p>Lab:</p></b>
                     <p>City, State, ZIP</p>
                     <br/>
                     <p><a href="">email@email.com</a></p>
                     <p>123456789</p>
+                    <br />
+                    <div className="ua_component_wrapper ua_custom-class">
+    <button className="ua_cta" onClick={downloadPdf}>Download my CV</button>
+  </div>
                 </div>
+                
                 <div className="map">
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.172042453614!2d144.95373631568307!3d-37.81627967975144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0x5045675218ceed0!2z44CSMzAwMCBWaWN0b3JpYSwg5qCq5byP5Lya56S-55Sw5Yy65LiK55uu77yS5LiB55uu!5e0!3m2!1sja!2sjp!4v1549449757488"
