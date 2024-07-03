@@ -15,7 +15,7 @@ export const Home = () =>{
         <div className="text-overlay">
           <div>
               <h1 style={{fontSize:'40px'}}>Hee Lab</h1>
-              <p style={{fontSize:'20px'}}>Department of Social Work</p>
+              <p style={{fontSize:'20px'}}>The School of Social Work</p>
           </div>
       </div>
 
