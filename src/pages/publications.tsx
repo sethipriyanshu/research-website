@@ -226,7 +226,23 @@ export const Publications = () =>{
   <h1>2019</h1>
 </div>
 <div className="publications">
-
+<p> Guo, Y.,D Cheng, T. & <b>Lee, H.Y.</b> (2019). Factors Associated with Adherence to Preventive Breast Cancer Screenings among Middle-aged African American Women. Social Work in Public Health, 34(7), 646-656, DOI: 10.1080/19371918.2019.1649226. PMID: 31411130 </p>
+<p> Albright, D. L., <b>Lee, H.Y.</b>, McDaniel, J. T., Kroner, D., Davis, J., Godfrey, K.,D & Li, Q.D (2019). Small area estimation of HPV vaccination coverage among school-aged children in Alabama counties. Public Health, 177, 120-127. https://doi.org/10.1016/j.puhe.2019.08.006. PMID: 31561050. Accepted 2019, August 10 </p>
+<p> Lee, M.H.,F Merighi, J., & <b>Lee, H.Y.</b> (2019). Factors Associated with Mammogram Use in Korean American Immigrant Women. American Journal of Health Behavior, 43(6). 1075-1085. DOI: https://doi.org/10.5993/AJHB.43.6.6 </p>
+<p> Vickers, M., Green, C., <b>Lee, H.Y.</b>, Pierce, J.Y., & Daniel, C.L. (2019). Factors Associated with HPV Vaccination Uptake and HPV-associated Cancers: A County-Level Analysis in the State of Alabama. Journal of Community Health.44, 1214-1223. https://doi.org/10.1007/s10900-019-00690-1. Accepted 2019, July 17 </p>
+<p> Jin, S. W.,F <b>Lee, H.Y.</b>, & Lee, J. (2019). Analyzing factors enabling colorectal cancer screening adherence in Korean Americans using the Andersen's Behavioral Model of Health Services Utilization. Journal of Psychosoical Oncology, 37(6), 729-745. DOI: 10.1080/07347332.2019.1608347. PMID: 31328688. PMCID: PMC6803065. Accepted 2019, July 22 </p>
+<p> McDaniel, J. T., Albright, D., <b>Lee, H.Y.</b>, Patrick, S., McDermott, R. J., Jenkins, W. D., Diehr, A. J., & Jurkowski, E. (2019). Rural-urban disparities in colorectal cancer screening among military service members and veterans. Journal of Military, Veteran, and Family Health. 5(1), 40-48. https://doi.org/10.3138/jmvfh.2018-0013 </p>
+<p> McDaniel, J. T.,, Mayer, A. B., McDermott, R. J., Albright, D., L., <b>Lee, H.Y.</b>, & Harara, E. (2019). Service member and veteran mental distress rates and military-civilian residential segregation in South Carolina counties. Housing and Society, 46(3), 157-169, https://doi.org/10.1080/08882746.2019.1668224 </p>
+<p> Jin, S.W.,F <b>Lee, H.Y.</b>, & Lee, J. (2019). Analyzing Factors of Breast Cancer Screening Adherence among Korean American Women Using Andersen’s Behavioral Model of Healthcare Services Utilization. Ethnicity and Disease, 29(2), 427-434. doi:10.18865/ed.29.S2.427 </p>
+<p> Zhou, A.D, <b>Lee, H.Y.</b>, & Lee, R. (2019). Who Has Low Health Literacy and Does It Matter for Depression? Findings from Aggregated and Disaggregated Racial/Ethnic Groups. Cultural Diversity & Ethnic Minority Psychology, 25(1), 73-81. https://doi.org/10.1037/cdp0000210 </p>
+<p> Rivera, A.M., Zhang, Z.  Kim, A. Ahuja, N., <b>Lee, H.Y.</b>, & Hahm, H.C. (2019). Mechanisms of action in AWARE: A culturally informed intervention for 1.5-and 2nd-generation Asian American women. American Journal of Orthopsychiatry, 89(4), 475-479. DOI: 10.1037/ort0000391. PMID 31305115. </p>
+<p> <b>Lee, H.Y.</b>, Lee, M.H.,D Sharratt, M.,M Lee, S., & Blaes, A. (2019). Development of a Mobile Health Intervention to Promote Papanicolaou Tests and Human Papillomavirus Vaccination in an Underserved Immigrant Population: A Culturally Targeted and Individually Tailored Text Messaging Approach. Journal of Medical Internet Research, Mhealth & Uhealth, 7(6), e13256. doi:10.2196/13256. PMID: 31199340. PMCID: 6592403. Accepted 2019, April 26. </p>
+<p> Allen, E., <b>Lee, H.Y.</b>, Pratt, R., Vang, H.M, Desai, J., Dube, A., & Lightfoot, E. (2019). Facilitators and Barriers of Cervical Cancer Screening and Human Papilloma Virus Vaccination among Somali Refugee Women in the United States: A Qualitative Analysis. Journal of Transcultural Nursing, 30(1), 55-63. https://doi.org/10.1177/1043659618796909. PMID: 30170512. </p>
+<p> Vogel, R., Niendorf, K., Petzel, S., <b>Lee, H.</b>, Teoh, D., Blaes, A, Argenta, P., Rivard, C., Winterhoff, B., <b>Lee, H.Y.</b>, & Geller, M. (2019).  A patient-centered mobile health application to motivate use of genetic counseling among women with ovarian cancer: a pilot randomized controlled trial, Gynecologic Oncology, 153(1), 100-107. doi: 10.1016/j.ygyno.2019.01.019. Accepted 2019, January 22 </p>
+<p> <b>Lee, H.Y.</b>, Beltran, R.D, Kim, N.G., D & Lee, D.U (2019). Racial Disparities in Cervical Cancer Screening: Implications for Relieving Cervical Cancer Burden in Asian American Pacific Islander Women. Cancer Nursing: An International Journal for Cancer Care, 42(6):458-467. doi: 10.1097/NCC.0000000000000642. PMID: 30624249. Accepted 2018, June 7. </p>
+<p> Pope, Z., Lee, J., Zeng, N., <b>Lee, H.Y.</b>, & Gao, Z. (2019). Feasibility of Smartphone Application and Social Media Intervention on Breast Cancer Survivors’ Health outcomes. Translational Behavioral Medicine, 9(1), 11-22. https://doi.org/10.1093/tbm/iby002. PMID 29471477. </p>
+<p> Choi, E.Y.,M Kim., Y.S., <b>Lee, H.Y.</b>, Shin, H.R., Park, S. W., & Cho, S.E.M (2019). The moderating effect of subjective age on the association between depressive symptoms and cognitive functioning in Korean older adults. Aging and Mental Health, 23(1), 38-45. https://doi.org/10.1080/13607863.2017.1390733. </p>
+<br/>
   </div> 
 
 
@@ -235,13 +251,62 @@ export const Publications = () =>{
 </div>
 <div className="publications">
 
+<p> Nam, H.E., Baik, J.W., <b>Lee, H.Y.</b>, Bae, E.S., Gibson, P., Hwang, D.S., (2018). The 4th Industrial Revolution and Social Work Focus on People with Disabilities. International Journal of Advanced Science and Technology, 116, 87-95. DOI:10.14257/ijast.2018.116.08 </p>
+
+<p> Roh, S.H., Burnette, C., Lee, Y-S., Jun, J.S., <b>Lee, H.Y.</b>, & Lee, K. H. (2018). Breast Cancer Literacy and Health Beliefs Related to Breast Cancer Screening among American Indian Women. Health and Social Work, 57(7), 465-482. doi: 10.1080/00981389.2018.1455789. PubMed PMID: 29589809; PubMed Central PMCID: PMC5997550. </p>
+
+<p> <b>Lee, H.Y.</b>, Lee, M.H.,D Gao, Z., & Sadak, K (2018). Development and Evaluation of Culturally and Linguistically Tailored Mobile App to Promote Breast Cancer Screening. Journal of Clinical Medicine, 7(181), 1-11. doi: 10.3390/jcm7080181. </p>
+
+<p> Vogel, R., Niendorf K., Lee, H., Petzel, S., <b>Lee, H.Y.</b>, & Geller, M. (2018). A qualitative study of knowledge of and barriers to genetic counseling and potential for mobile technology education among women with ovarian cancer. Hereditary Cancer in Clinical Practice, 16(13), 1-7, https://hccpjournal.biomedcentral.com/track/pdf/10.1186/s13053-018-0095-z. https://doi.org/10.1186/s13053-018-0095-z. </p>
+
+<p> Burnette, C.E., Liddell, J., Roh, S., Lee, Y., & <b>Lee, H.Y.</b> (2018). American Indian Women Cancer Survivors’ Perceptions and Experiences with Conventional and Non-Conventional Mental Health Care for Depressive Symptoms. Ethnicity and Health, https://doi.org/10.1080/13557858.2018.1493439. </p>
+
+<p> Pope, Z.D, Zeng, N.D, Zhang, R. <b>Lee, H.Y.</b>, & Gao, Z. (2018). Effectiveness of Combined Smartwatch and Social Media Intervention on Breast Cancer Survivor Health Outcomes: 10-Week Pilot Randomized Trial. Journal of Clinical Medicine, 7(6). pii: E140. doi: 10.3390/jcm7060140. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6025572/pdf/jcm-07-00140.pdf. </p>
+
+<p> <b>Lee, H.Y.</b>, Choi, Y.J., Yoon, Y. J.,D & Oh, J.D (2018). HPV Literacy: The Role of English Proficiency in Korean American Immigrant women. Clinical Journal of Oncology Nursing, 22(3), E64-E70. doi: 10.1188/18.CJON.E64-E70. </p>
+
+<p> <b>Lee, H.Y.</b>, Lust, K., Vang, S.,D & Desai, J. (2018). Male Undergraduates’ HPV Vaccination Behavior: Implications for Achieving HPV-Associated Cancer Equity. Journal of Community Health, 43(3), 459-466, https://doi.org/10.1007/s10900-018-0482-4. </p>
+
+<p> An, S., Choi, Y.J., <b>Lee, H.Y.</b>, Yoon, Y.J.D, & Pratt, M.M (2018). Predictors of Breast Cancer Screening Among Korean American Women: Is Having an Annual Checkup Critical? Asian Pacific Journal of Cancer Prevention, 19(5), 1281-1286. doi: 10.22034/APJCP.2018.19.5.1281. </p>
+
+<p> <b>Lee, H.Y.</b>, Kim, J.H., & Sharrat, M.M (2018). Technology use and its association with health and depressive symptoms in older cancer survivors. Quality of Life Research, 27, 467-477. doi: 10.1007/s11136-017-1734-y9. </p>
+
+<p> Baik, J.W., Nam, H.E., & <b>Lee, H.Y.</b> (2018). Research Trend Analysis of Health and Mental Health Literacy in Korea: 2007-2017. The Korean Journal of Health Service Management, 12 (3), 45-55 (written in Korean) </p>
+
+<p> Nam, H.E., Kim, S.N., Kim, S.H., Yim, Y.J., Baik, J.W., Park, H.G., Son, J.H., Yoon, K.H., & <b>Lee, H.Y.</b> (2018). Recognition of experts on social welfare education in response to changes in future society in South Korea. Korean Journal of Social Welfare Education, 43, 55-80. (written in Korean) </p>
+<br/>
   </div> 
 
   <div className="publications_title">
   <h1>2017</h1>
 </div>
 <div className="publications">
+<p> Khuu, B.,D <b>Lee, H.Y.</b>, & Zhou, A.D (2017). Health literacy and associated factors in Hmong American immigrants: Addressing the health disparities. Journal of Community Health. 43(1), 11-18. doi: 10.1007/s10900-017-0381-0. </p>
 
+<p> <b>Lee, H.Y.</b>, Ghebre, R., Le, C. Jang, Y.J.D, & Sharratt, M., Yee, D. (2017). Mobile Phone Multimedia Messaging Intervention for Breast Cancer Screening: A Pilot Randomized Controlled Trial, Journal of Medical Internet Research-mHealth and Uhealth, 5(11). Open access: https://mhealth.jmir.org/article/viewFile/mhealth_v5i11e154/2 </p>
+
+<p> <b>Lee, H.Y.</b>, Lee, J.D, Henning-Smith, C., & Choi, J.U (2017). HPV Literacy and Its Link to Initiation and Completion of HPV Vaccine Among Young Adults in Minnesota. Public Health, 152, 172-178 </p>
+
+<p> <b>Lee, H.Y.</b>, Lee, M.H.D, Jang, Y. J.D, & Lee, D.K.M (2017). Breast Cancer Screening Disparity among Korean American Immigrant Women in Midwest, Asian Pacific Journal of Cancer Prevention. 18(10), 2663-2667. doi: 10.22034/APJCP.2017.18.10.2663 </p>
+
+<p> Kim, Y.S., <b>Lee, H.Y.</b>, Park, B.H., Lee, M. H.,D & Simms, T.D (2017). Mental health literacy in Korean older adults: A cross-sectional survey. Journal of Psychiatric and Mental Health Nursing. 24(7), 523-533. </p>
+
+<p> Kim, J.H., <b>Lee, H.Y.</b>, Christensen, C., & Merighi, J.R. (2017). Technology Access and Use, and Their Associations With Social Engagement Among Older Adults: Do Women and Men Differ? The Journals of Gerontology: Series B Social Sciences. 72(5). 836-845. doi: 10.1093/geronb/gbw123. </p>
+
+<p><i> This article was selected as Editor's Choice in the section of social sciences in this issue, which makes the article openly accessible via the journal’s website: https://academic.oup.com/psychsocgerontology/article/72/5/836/2632085/Technology-Access-and-Use-and-Their-Associations </i></p>
+
+<p><i> This article was introduced as suggested reading on internet use and aging in the Oxford University Press's blog by the journal's editor-in-chief, Dr. Carr on October 29, 2016, World Internet Day: A reading list on older adults’ internet use, Oxford University Press blog. https://blog.oup.com/2016/10/world-internet-day-reading-list/. </i></p>
+
+<p> Lee, E. J.,D <b>Lee, H.Y.</b> & Chung, S.D. (2017). Age Differences in Health Literacy: Do Younger Korean Adults Have a Higher Level of Health Literacy than Older Korean Adults? Health and Social Work. 2017 August; 42(3): 133-142. doi: 10.1093/hsw/hlx026 </p>
+
+<p> Kim, Y.S., Rhee, T. G.,D <b>Lee, H.Y.</b>, Park, B.H., & Sharratt, M.M (2017). Mental health literacy as a mediator in use of mental health services among older Korean adults. International Psychogeriatrics, 29(2), 269-279. doi: 10.1017/S1041610216001721. </p>
+
+<p> Kayama, M., Haight, W., Ku, M.L.M, Cho, M.D & <b>Lee, H.Y.</b> (2017). East Asian and US educators’ reflections on how stigmatization affects their relationships with parents whose children have disabilities: Challenges and solutions. Children and Youth Services Review, 73, 128-144. doi: 10.1016/j.childyouth.2016.12.010. </p>
+
+<p> Choi, E. Y., Rim, Y. H., Lee, G. H., Shin, H. R., Park, S. W., <b>Lee, H.Y.</b>, & Kim, Y.S. (2017). The relationship between health literacy and mental health of older adults: Focusing on moderating effect of social support. Korean Journal of Gerontology, 72(3), 251-282 (Written in Korean). </p>
+
+<p> Nam, H.E., Baik, J.W., <b>Lee, H.Y.</b>, & Yim, Y.J. (2017). An Exploratory Study on the Recognition of the 4th Industrial Revolution in the Social Workers of the Rehabilitation Center for the Disabled. Journal of Disability and Welfare, 38, 237-266. (Written in Korean) </p>
+<br/>
   </div> 
 
 
@@ -249,56 +314,151 @@ export const Publications = () =>{
   <h1>2016</h1>
 </div>
 <div className="publications">
+<p> Rhee, T. G.,D <b>Lee, H.Y.</b>, Kim, N.K., D Han, G.H., Lee. J.H., & Kim, K.W. (2016). Is health literacy associated with depressive symptoms among Korean adults? Implications for mental health nursing. Perspectives in Psychiatric Care, 1-9, doi:10.1111/ppc.12162. </p>
 
+<p> <b>Lee, H.Y.</b> & Lee, M.H.D (2016). Barriers to Cervical Cancer Screening and Prevention in Young Korean Immigrant Women: Implications for Intervention Development. Journal of Transcultural Nursing. doi: 10.1177/1043659616649670 </p>
+
+<p> Haight, W., Kayama, M., Ku, M., Cho, M.,M & <b>Lee, H.Y.</b> (2016). Perspectives of elementary school educators in Japan, South Korea, Taiwan and the US on disability, stigmatization and children's developing self: Part 1: Defining the problem in cultural context. Children and Youth Services Review, 70, 214-218. doi: 10.1016/j.childyouth.2016.09.022. </p>
+
+<p> Kayama, M., Haight, W., Ku M.L., Cho, M,M & <b>Lee, H.Y.</b> (2016). Perspectives of elementary school educators in Japan, South Korea, Taiwan and the US on disability, stigmatization and children’s developing self: Part 2: Solutions. Children and Youth Services Review,70, 403-418. doi: 10.1016/j.childyouth.2016.10.009. </p>
+
+<p> Kim, Y.S., Khatiwoda, P. D, Park, B.H., & <b>Lee, H.Y.</b> (2016). Health literacy and its link to health care services utilization among older adults in Korea. Social Work in Public Health, 31(6), 467-473. doi: 10.1080/19371918.2015.1137519. </p>
+
+<p> <b>Lee, H.Y.</b>, Rhee, G. T. D, & Kim, N.K. D (2016). Cancer literacy as a mediator for cancer screening behaviour in Korean adults. Health and Social Care in the Community, 24(5), e34-e42. doi: 10.1111/hsc.12243. </p>
+
+<p> Khuu, B.,D <b>Lee, H.Y.</b>, ZhouD, A., Shin, J.H.M, & Lee, R. (2016). Healthcare providers' perspectives on parental health literacy and child health outcomes among Southeast Asian American immigrants and refugees. Children and Youth Services Review, 67, 220-229. doi: 10.1016/j.childyouth.2016.06.006. </p>
+
+<p> Beltran, R.,M Simms, T.,M <b>Lee, H.Y.</b>, & Kwon, M. (2016). HPV Literacy and Associated Factors Among Hmong American Immigrants: Implications for Reducing Cervical Cancer Disparity. Journal of Community Health, 41(3), 603-611. doi: 10.1007/s10900-015-0135-9. </p>
+
+<p> <b>Lee, H.Y.</b>, Koopmeiners, J., Mchugh, J.M, Raveis, V., & Ahluwalia, J. (2016). mHealth Pilot Study: Text Messaging Intervention to Promote HPV Vaccination. American Journal of Health Behavior, 40(1), 67-76. doi: 10.5993/AJHB.40.1.8. </p>
+
+<p> <b>Lee, H.Y.</b> (2016). Sociocultural Dimensions of Life Satisfaction among Older Korean American Immigrants: Findings from a Qualitative Approach. Social Welfare Policy and Practice, 2(2), 1-17. </p>
+<br/>
   </div> 
 
   <div className="publications_title">
   <h1>2015</h1>
 </div>
 <div className="publications">
+<p> <b>Lee, H.Y.</b>, Stange, M.J. M, & Ahluwalia, J.S. (2015). Breast cancer screening behaviors among Korean American immigrant women: Findings from Health Belief Model. Journal of Transcultural Nursing, 26(5), 450-457. doi: 10.1177/1043659614526457. </p>
 
+<p> <b>Lee, H.Y.</b>, Kim, J.H., & Merighi, J. (2015). Physical Activity and Self-Rated Health Status Among Older Adult Cancer Survivors: Does Intensity of Activity Play a Role? Oncology Nursing Forum, 42(6), 614-624. doi: 10.1188/15.ONF.614-624. </p>
+
+<p> <b>Lee, H.Y.</b>, Lee, J.W. D, & Kim, N.K. D (2015). Gender differences in health literacy among Korean Adults: Do women have a higher level of health literacy than men? American Journal of Men’s Health, 9(5), 370-379. doi: 10.1177/1557988314545485. </p>
+
+<p> <b>Lee, H.Y.</b>, Rhee, T.G., Kim, N.K.F, & Ahluwalia, J.S. (2015). Health literacy as a social determinant of health in Asian American immigrants: Findings from a population-based survey in California. Journal of General Internal Medicine, 30(8), 1118-1124. doi:10.1007/s11606-015-3217-6. </p>
+
+<p> <b>Lee, H.Y.</b>, & Vang, S. D (2015). Cultural beliefs and clinical breast examination in Hmong American women: The crucial role of modesty. Journal of Immigrant and Minority Health, 17(3), 746-755. doi:10.1007/s10903-013-9890-9. </p>
+
+<p> <b>Lee, H.Y.</b>, Yang, P. D, Lee, D. K.U, & Ghebre, R. (2015). Cervical Cancer Screening Behavior among Hmong-American Immigrant Women. American Journal of Health Behavior, 39(3), 301-307. doi: 10.5993/AJHB.39.3.2. </p>
+
+<p> <b>Lee, H.Y.</b>, Choi, J, & Lee, M.H. D (2015). Health literacy in an underserved immigrant population: New implications toward achieving health equity. Asian American Journal of Psychology, 6(1), 97-105. doi: 10.1037/a0037425. </p>
+
+<p> BrintzenhofeSoc, K., Davis, C., Kayser, K., <b>Lee, H.Y.</b>, Nedjat-Haiem, F., Oktay, J.S., Zabora, J., & Zebrack, B.J. (2015). Screening for psychosocial distress: A national survey of oncology social workers, Journal of Psychosocial Oncology, 33, 34-47. doi: 10.1080/07347332.2014.977416. </p>
+
+<p> Arriaza, P., Nedjat-Haiem, F., <b>Lee, H.Y.</b>, & Martin, S. (2015). Guidelines for conducting rigorous health care psychosocial cross-cultural/language qualitative research. Social Work in Public Health, 30(1), 75-87. doi:10.1080/19371918.2014.938394. </p>
+
+<p> Lightfoot, E. & <b>Lee, H.Y.</b> (2015). Professional international service learning as an international service learning opportunity appropriate for graduate or professional students. International Education Journal: Comparative Perspectives, 14(1), 32-41. </p>
+
+<p> Park, B.H., Kim, Y.S., & <b>Lee, H.Y.</b> (2015). Factors associated with health literacy in Korean older adults: Findings from Andersen’s Behavioral Model. Korea Journal of Welfare for the Aged, 25(3), 57-67 (Published in Korean). </p>
+
+<p> <b>Lee, H.Y.</b>, Kwon, M., Vang, S.D, DeWolfe, J., Kim, N.K.D, Lee, D.K.D, & Yeung, M. (2015). Disparities in Human Papillomavirus vaccine literacy and vaccine completion among Asian American Pacific Islander undergraduates: Implications for cancer health equity. Journal of American College Health, 63(5), 316-323. doi:10.1080/07448481.2015.1031237. </p>
+<br/>
   </div> 
 
   <div className="publications_title">
   <h1>2014</h1>
 </div>
 <div className="publications">
+<p> <b>Lee, H.Y.</b>, Koopmeiners, J., Rhee, T.G., Raveis, V.H., & Ahluwalia, J.S. (2014). Mobile phone text messaging intervention for cervical cancer screening: Changes in knowledge and behavior pre-post intervention. Journal of Medical Internet Research, 16(8), e196. doi: 10.2196/jmir.3576. Open access. </p>
 
+<p> <b>Lee, H.Y.</b>, Choi, J., & Park, J.H.M (2014). The primary care physician and cancer literacy: Reducing health disparities in an immigrant population. Health Education Journal, 73(4), 435-445. doi: 10.1177/0017896913489290. </p>
+
+<p> Lightfoot, E. & <b>Lee, H.Y.</b> (2014). Elder mistreatment among Asians and Asian Americans: New directions toward prevention, intervention, and policy. Journal of Aggression, Maltreatment, and Trauma, 23, 1-4. doi: 10.1080/10926771.2014.865150 (Special Issue: Served as a guest editor). </p>
+
+<p> <b>Lee, H.Y.</b>, & Lightfoot, E. (2014). The culture-embedded social problem of elder mistreatment: A review of international literature on Asian elders. Journal of Aggression, Maltreatment and Trauma, 23(1), 5-19. doi: 10.1080/10926771.2014.864743 (Special Issue: Served as a guest editor). </p>
+
+<p> <b>Lee, H.Y.</b>, Yoon, S.Y., Yoon, J.Y., H.S., Kwon, J.H. D, Park, E.S., Nam, R., Kang, S.B., & Park, K.H. (2014). Perception and help-seeking intention of intimate partner violence in later life: An international perspective. Journal of Aggression, Maltreatment and Trauma, 23(1), 45-66. doi: 10.1080/10926771.2014.864744 (Special Issue: Served as a guest editor). </p>
+ <p><b>Lee, H.Y.</b>, Tran, M., Jin, S.W. D, Bliss, R., & Yeazel, M., (2014). Motivating underserved Vietnamese Americans to obtain colorectal cancer screening: Evaluation of a culturally tailored DVD intervention. Asian Pacific Journal of Cancer Prevention, 15(4), 1791-1796.</p>
+  <br/>
   </div> 
 
   <div className="publications_title">
   <h1>2013</h1>
 </div>
 <div className="publications">
+<p> <b>Lee, H.Y.</b>, & Jung, Y. (2013). Older Korean American men’s prostate cancer screening behavior: The prime role of culture. Journal of Immigrant and Minority Health, 15(6), 1030-1037. doi: 10.1007/s10903-013-9804-x. </p>
 
+<p> <b>Lee, H.Y.</b>, Lee, S.E., Yoon, H.S., & Im, H. (2013). Definition of financial abuse: A culture-centered construct among Korean elders. Journal of Aggression, Maltreatment, and Trauma, 22(5), 527-540. doi: 10.1080/10926771.2013.789095. </p>
+
+<p> <b>Lee, H.Y.</b>, & Im, H.J. (2013). Colorectal cancer screening among Korean American immigrants: Unraveling the influence of culture. Journal of Health Care for the Poor and Underserved, 24(2): 579-598. doi: 10.1353/hpu.2013.0087. </p>
+
+<p> <b>Lee, H.Y.</b>, & Jin, S.W. (2013). Older Korean cancer survivors’ depression and coping: Directions toward culturally competent interventions. Journal of Psychosocial Oncology, 31(4), 357-376. doi: 10.1080/07347332.2013.798756. </p>
+ <br/>
   </div> 
 
   <div className="publications_title">
   <h1>2012</h1>
 </div>
 <div className="publications">
+<p> <b>Lee, H.Y.</b>, Lee, S.E., & Eaton, C. (2012). Exploring definition of financial abuse in elderly Korean immigrants: The contribution of traditional cultural values. Journal of Elder Abuse and Neglect, 24(4), 293-311. doi: 10.1080/08946566.2012.661672. </p>
 
+<p> <b>Lee, H.Y.</b>, & Choi, J.K. (2012). Pathway to health literacy among Korean American immigrants: The mediating role of English proficiency. Journal of Human Behavior in the Social Environment, 22(3), 255-269. doi: 10.1080/10911359.2012.655568. </p>
+  <br/>
   </div> 
 
   <div className="publications_title">
   <h1>2011</h1>
 </div>
 <div className="publications">
+<p> <b>Lee, H.Y.</b>, Lundquist, M., Ju, E., Liu, X., & Townsend, A. (2011). Colorectal cancer screening disparities in Asian Americans and Pacific Islanders: Which groups are most vulnerable? Ethnicity and Health, 16(6), 501-518. doi: 10.1080/13557858.2011.575219. </p>
 
+<p> <b>Lee, H.Y.</b>, Roh, S.H., Vang, S.W., & Jin, S.W. (2011). The contribution of culture to Korean American women’s cervical cancer screening behavior: The critical role of prevention orientation. Ethnicity and Disease, 21(4), 399-405. </p>
+
+<p> <b>Lee, H.Y.</b>, Yoon, H.S., Shin, N.R., Moon, J.Y., Kwon, J.H., Park, E.S., Nam, R., Kang, S.B., & Park, K.H. (2011). Perception of elder mistreatment and its link to help-seeking intention: A comparison of elderly Korean and Korean American immigrants. Clinical Gerontologist, 34(4), 287-304. doi: 10.1080/07317115.2011.573407. </p>
+
+<p> <b>Lee, H.Y.</b>, Gibson, P., & Chaisson, R. (2011). Elderly Korean immigrants' socially and culturally constructed definitions of elder neglect. Journal of Aging Studies, 25(2), 126-134. doi: 10.1016/j.jaging.2010.08.015. </p>
+  <br/>
   </div> 
 
   <div className="publications_title">
   <h1>2010</h1>
 </div>
 <div className="publications">
+<p> <b>Lee, H.Y.</b>, Ju, E.S., Vang, P.D., & Lundquist, M. (2010). Breast and cervical cancer screening disparity among Asian American women: Does race/ethnicity matter? Journal of Women’s Health, 19(10), 1877-1884. doi: 10.1089/jwh.2009.1783. </p>
 
+<p> <b>Lee, H.Y.</b>, & Vang, S. (2010). Barriers to cancer screening in Hmong Americans: The influence of health care accessibility, culture, and cancer literacy. Journal of Community Health, 35(3), 302-314. doi: 10.1007/s10900-010-9228-7. </p>
+
+<p> <b>Lee, H.Y.</b>, & Shin, N. (2010). Cultural view on and response to mistreatment of elderly Korean American immigrants: A social development intervention. Social Development Issues, 32(1), 89-110. </p>
+
+<p> <b>Lee, H.Y.</b>, Ju, E.S., & Lightfoot, E. (2010). The role of substance use by both perpetrators and victims in intimate partner violence outcomes. Journal of Social Work Practice in the Addictions, 10(1), 3-24. doi: 10.1080/15332560903539955. </p>
+
+<p> <b>Lee, H.Y.</b>, Park, E.J., & Lightfoot, E. (2010). When does a battered woman seek help from the police? The role of battered women’s functionality. Journal of Family Violence, 25(2), 195-204. doi: 10.1007/s10896-009-9283-y. </p>
+
+<p> Lee, S.E., <b>Lee, H.Y.</b>, & Diwan, S. (2010). What do Korean American immigrants know about Alzheimer’s disease (AD)? The impact of acculturation and exposure to the disease on AD knowledge. International Journal of Geriatric Psychiatry, 25(1), 66-73. doi: 10.1002/gps.2299. </p>
+
+<p> Yoon, H.S., <b>Lee, H.Y.</b>, Kwon, J.H., Yoon, J.Y., & Park, E.J. (2010). Perception and help-seeking behavior among older persons: Six hypothetical elder mistreatment scenarios. Journal of the Korean Gerontological Society, 30(1), 221-240. (Published in Korean). </p>
+
+<p> Yoon, H.S., <b>Lee, H.Y.</b>, Park, E.S., Yoon, J.Y., Kwon, J.H., Park, K.H., Nam, R., & Kang, S.B. (2010). Effectiveness of the elder mistreatment prevention program for older persons. Journal of Community Welfare, 34, 231-258. (Written in Korean). </p>
+
+<p> <b>Lee, H.Y.</b>, Lytle, K., Yang, P.N., & Lum, T. (2010). Mental health literacy in Hmong and Cambodian elderly refugees: A barrier to understanding, recognizing and responding to depression. International Journal of Aging and Human Development, 71(4), 323-344. doi: 10.2190/AG.71.4.d. </p>
+  <br/>
   </div> 
 
   <div className="publications_title">
   <h1>1994 - 2009</h1>
 </div>
 <div className="publications">
+<p><b>Lee, H.Y.</b>, & Eaton, C.K. D (2009). Financial abuse in elderly Korean immigrants: Mixed analysis of the role of culture on perception and help-seeking intention. Journal of Gerontological Social Work, 52(5), 463-488. doi: 10.1080/01634370902983138.</p>
 
+<p><i>*This article was selected as the best article in 2010 and awarded Rose Dobrof Best Paper Award by the Journal of Gerontological Social Work.</i></p>
+
+<p><b>Lee, H.Y.</b>, Lightfoot, E., & Edleson, J. (2008). Differences among battered mothers in their involvement with child protection services: Could the perpetrator's biological relationship to the child have an impact? Children and Youth Services Review, 30(10), 1189-1197. doi: 10.1016/j.childyouth.2008.03.004.</p>
+
+<p><b>Lee, H.Y.</b>, Moon, A., & Knight, B. (2005; 2008-online published). Depression among elderly Korean immigrants: Exploring socio-cultural factors. Journal of Ethnic & Cultural Diversity in Social Work, 13(4), 1-26. doi: 10.1300/J051v13n04_01.</p>
+
+<p><b>Lee, H.Y.</b>, & Han, G.H. (1994). Sibling support network as social support among Korean elders in Korea. Journal of Korean Gerontological Society, 26, 15-32. (Written in Korean).</p>
+<br/>
   </div> 
         </div>
     )
