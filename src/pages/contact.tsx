@@ -1,3 +1,4 @@
+import { SecondaryNavbar } from '../components/secondary-navbar';
 import contact_img from '../images/contact.jpg'; 
 
 export const Contact = () =>{
@@ -27,6 +28,7 @@ export const Contact = () =>{
         <div className="text-overlay">
           <div>
               <h1>Contact</h1>
+              <SecondaryNavbar/>
           </div>
       </div>
 

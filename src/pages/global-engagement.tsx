@@ -1,3 +1,5 @@
+import { SecondaryNavbar } from "../components/secondary-navbar"
+
 export const GlobalEngagement = () =>{
     return(
         <div>
@@ -12,6 +14,7 @@ export const GlobalEngagement = () =>{
         <div className="text-overlay">
           <div>
               <h1>Global Engagement</h1>
+              <SecondaryNavbar/>
           </div>
       </div>
 

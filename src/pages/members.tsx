@@ -1,3 +1,5 @@
+import { SecondaryNavbar } from "../components/secondary-navbar"
+
 export const Members = () =>{
     return(
         <div>
@@ -12,6 +14,7 @@ export const Members = () =>{
         <div className="text-overlay">
           <div>
               <h1>Lab Members</h1>
+              <SecondaryNavbar/>
           </div>
       </div>
 

@@ -1,3 +1,4 @@
+import { SecondaryNavbar } from "../components/secondary-navbar";
 import homeImage1 from "../images/home01.gif";
 import homeImage2 from "../images/home02.png";
 
@@ -16,7 +17,7 @@ export const Home = () =>{
           <div>
               <h1 style={{fontSize:'40px'}}>Hee Lab</h1>
               <p style={{fontSize:'20px'}}>The School of Social Work</p>
-              
+            <SecondaryNavbar/>
           </div>
       </div>
 

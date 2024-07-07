@@ -1,3 +1,5 @@
+import { SecondaryNavbar } from "../components/secondary-navbar"
+
 export const Publications = () =>{
     return(
         <div>
@@ -11,6 +13,7 @@ export const Publications = () =>{
         <div className="text-overlay">
           <div>
               <h1>Publications</h1>
+              <SecondaryNavbar/>
           </div>
       </div>
       </div> 
