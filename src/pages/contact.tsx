@@ -45,9 +45,6 @@ export const Contact = () =>{
                     <b><p>Office:</p></b>
                     <p>1022 Little Hall, Box 870314, Tuscaloosa, Alabama</p>
                     <br/>
-                    <b><p>Lab:</p></b>
-                    <p>City, State, ZIP</p>
-                    <br/>
                     <p><a href="">email@email.com</a></p>
                     <p>123456789</p>
                     <br />
