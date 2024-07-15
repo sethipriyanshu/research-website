@@ -3,6 +3,15 @@ import homeImage1 from "../images/home01.gif";
 import homeImage2 from "../images/home02.png";
 
 export const Home = () =>{
+  const downloadPdf = () => {
+    const url = process.env.PUBLIC_URL + '/cv_hee_yun_lee.pdf'; 
+    const link = document.createElement('a');
+    link.href = url;
+    link.setAttribute('download', 'cv_hee_yun_lee.pdf'); 
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
     return(
         <div>
 <div className="ua_component_wrapper ua_custom-class">
@@ -17,6 +26,9 @@ export const Home = () =>{
           <div>
               <h1 style={{fontSize:'40px'}}>Hee Lab</h1>
               <p style={{fontSize:'20px'}}>The School of Social Work</p>
+              <div className="ua_component_wrapper ua_custom-class">
+    <button className="ua_cta" onClick={downloadPdf}>Download my CV</button>
+  </div>
             <SecondaryNavbar/>
           </div>
       </div>
