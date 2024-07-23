@@ -55,7 +55,7 @@ export const Contact = () =>{
                 
                 <div className="map">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.172042453614!2d144.95373631568307!3d-37.81627967975144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0x5045675218ceed0!2z44CSMzAwMCBWaWN0b3JpYSwg5qCq5byP5Lya56S-55Sw5Yy65LiK55uu77yS5LiB55uu!5e0!3m2!1sja!2sjp!4v1549449757488"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3338.2110499828627!2d-87.54804012485982!3d33.20856286180825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x888602993b0ccf9b%3A0xbb276ece861283db!2sLittle%20Hall%2C%20Tuscaloosa%2C%20AL%2035401!5e0!3m2!1sen!2sus!4v1721763943549!5m2!1sen!2sus"
                         width="100%"
                         height="300"
                         frameBorder="0"
