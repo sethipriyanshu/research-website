@@ -46,8 +46,8 @@ export const Contact = () =>{
                     <b><p>Office:</p></b>
                     <p>1022 Little Hall, Box 870314, Tuscaloosa, Alabama</p>
                     <br/>
-                    <p><a href="">email@email.com</a></p>
-                    <p>123456789</p>
+                    <p><a href="" style={{color:"blue"}}>hlee94@ua.edu</a></p>
+                    <p>205-348-6553</p>
                     <br />
                     <div className="ua_component_wrapper ua_custom-class">
     <button className="ua_cta" onClick={downloadPdf}>Download my CV</button>
