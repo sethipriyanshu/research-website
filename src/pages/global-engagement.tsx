@@ -1,4 +1,5 @@
 import { SecondaryNavbar } from "../components/secondary-navbar"
+import back from '../images/back.jpg'; 
 
 export const GlobalEngagement = () =>{
     return(
@@ -7,7 +8,7 @@ export const GlobalEngagement = () =>{
     <article className="ua_card">
       <div className="container">
       <img
-      src="https://picsum.photos/1600/900"
+      src={back}
       alt=""
       style={{ width: '100%', height: '30vh', objectFit: 'cover', objectPosition: 'top' }}
     />

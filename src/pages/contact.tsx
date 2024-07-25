@@ -1,5 +1,6 @@
 import { SecondaryNavbar } from '../components/secondary-navbar';
 import contact_img from '../images/contact.jpg'; 
+import back from '../images/back.jpg'; 
 
 export const Contact = () =>{
 
@@ -21,7 +22,7 @@ export const Contact = () =>{
     <article className="ua_card">
       <div className="container">
       <img
-      src="https://picsum.photos/1600/900"
+      src={back}
       alt=""
       style={{ width: '100%', height: '30vh', objectFit: 'cover', objectPosition: 'top' }}
     />

@@ -1,6 +1,7 @@
 import { SecondaryNavbar } from "../components/secondary-navbar";
 import homeImage1 from "../images/home01.gif";
 import homeImage2 from "../images/home02.png";
+import back from '../images/back.jpg'; 
 
 export const Home = () =>{
   const downloadPdf = () => {
@@ -18,7 +19,7 @@ export const Home = () =>{
     <article className="ua_card">
       <div className="container">
       <img
-      src="https://picsum.photos/1600/900"
+      src={back}
       alt=""
       style={{ width: '100%', height: '30vh', objectFit: 'cover', objectPosition: 'top' }}
     />
